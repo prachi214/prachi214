@@ -13,11 +13,11 @@
 
 - 📫 How to reach me **prachipatel5441@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1a-D_o5tx_TS-SFjW5Hsd1_Sx8RNnHhrQ/view?usp=sharing)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/prachi-patel-397704234/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Prachi Patel" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/prachi105" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="prachi105" height="30" width="40" /></a>
+<a href="https://github.com/prachi214" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="prachi105" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
